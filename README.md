@@ -57,3 +57,38 @@ https://roadmap.sh/design-system
 gibi gibi bir ton şey var.
 
 
+
+
+
+
+
+
+
+
+
+benim dillerim:
+
+Linux,
+Bash,
+Pyhton,
+C,
+HTML,
+CSS,
+Java,
+JavaScript,
+C++,
+Rust,
+Assembly,
+SQL,
+PHP,
+Go,
+YAML,
+R
+
+
+gibi gibi ileride kullanacağım tüm diller için birer repo side'ım var.
+
+ve bunların içinde oralardaki gelişimlerimi ve öğrenimlerimi , çeşitli geliştirmiş olduğum uygulamaların kaydını ve takibini tutarak, sunucam.
+
+
+
