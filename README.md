@@ -66,7 +66,7 @@ gibi gibi bir ton şey var.
 
 
 
-benim dillerim:
+benim:
 
 Linux,
 Bash,
