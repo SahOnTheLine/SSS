@@ -183,7 +183,64 @@ Ancak ayrı repository'ler **daha iyi** çünkü:
 - Issues ve Projects daha odaklı olur
 - Başkalarının sadece ilgili konuya star vermesi kolay
 
-İsterseniz başlamanız için örnek bir README template'i ya da dizin yapısı oluşturabilirim!
+------
+
+
+
+GitHub'daki bu üç ana özelliğin amaçlarını açıklayayım:
+
+## **Repositories (Depolar)**
+Kod projelerinizin yaşadığı temel alanlardır. Bir repository, projenizin tüm dosyalarını, klasörlerini ve revizyon geçmişini içerir.
+
+**Ne için kullanılır:**
+- Kaynak kodunuzu saklamak ve versiyonlamak
+- Ekip üyeleriyle kod üzerinde işbirliği yapmak
+- Pull request'ler ve code review süreçleri
+- Issues (sorunlar/görevler) takibi
+- Wiki ve dokümantasyon barındırmak
+
+**Nasıl kullanmalısınız:**
+- Her yazılım projesi için bir repository oluşturun
+- README dosyasıyla projenizi tanımlayın
+- Branch'ler kullanarak farklı özellikler üzerinde çalışın
+- Issues ile hata ve geliştirme taleplerini yönetin
+
+## **Projects (Projeler)**
+Kanban tarzı proje yönetimi araçlarıdır. Görevleri, issues'ları ve pull request'leri organize etmenizi sağlar.
+
+**Ne için kullanılır:**
+- İş akışınızı görselleştirmek (To Do, In Progress, Done kolonları)
+- Sprint planlaması yapmak
+- Birden fazla repository'deki işleri tek yerden yönetmek
+- Ekip koordinasyonu ve ilerleme takibi
+
+**Nasıl kullanmalısınız:**
+- Büyük özellikler veya milestone'lar için proje panoları oluşturun
+- Issues'ları projelere bağlayarak takip edin
+- Otomasyonlar kullanarak kartların otomatik hareket etmesini sağlayın
+- Ekip çalışmasında kimin ne üzerinde çalıştığını görün
+
+## **Packages (Paketler)**
+Yazılım paketlerinizi (kütüphaneler, containerlar) barındırmak ve dağıtmak için kullanılan registry hizmetidir.
+
+**Ne için kullanılır:**
+- npm, Maven, NuGet, Docker gibi paket formatlarını yayınlamak
+- Kendi private paket registry'nizi oluşturmak
+- CI/CD pipeline'larında kullanılmak üzere paket dağıtımı
+- Versiyonlanmış binary'leri saklamak
+
+**Nasıl kullanmalısınız:**
+- Kütüphane/framework geliştiriyorsanız paketlerinizi buradan yayınlayın
+- Docker image'larınızı GitHub Container Registry'de saklayın
+- Organizasyonunuz içinde paylaşılan bileşenler için private packages kullanın
+- CI/CD ile otomatik paket yayını yapın
+
+**Özet kullanım senaryosu:**
+- Kod yazıyorsunuz → **Repository** kullanın
+- İşleri/görevleri organize ediyorsunuz → **Projects** kullanın  
+- Yeniden kullanılabilir paketler/kütüphaneler dağıtıyorsunuz → **Packages** kullanın
+
+
 
 
 
