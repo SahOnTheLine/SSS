@@ -13,5 +13,11 @@ Bu repo da benim kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dedi�
  https://roadmap.sh/ diye efsane bir site var. Olmak istediğin alanı (Cyber Security, DevOps, Backend vs.) seç ve adım adım neleri öğrenmen gerektiğini gör. Kaybolduğun zaman pusulan burası.
 
  İçinde:
- https://roadmap.sh/linux
  
+https://roadmap.sh/linux
+
+https://roadmap.sh/full-stack
+
+https://roadmap.sh/devops
+ https://roadmap.sh/cyber-security
+ https://roadmap.sh/python
