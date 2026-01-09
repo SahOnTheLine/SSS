@@ -9,4 +9,4 @@ Bu repo da benim kilerim gibi bir şey. Sağda solda bulduğum, işe yarar dedi�
 
 
  (▲) Roadmap (Yol Haritası)
-https://roadmap.sh/ diye efsane bir site var. Olmak istediğin alanı (Cyber Security, DevOps, Backend vs.) seç ve adım adım neleri öğrenmen gerektiğini gör. Kaybolduğun zaman pusulan burası.
+ https://roadmap.sh/ diye efsane bir site var. Olmak istediğin alanı (Cyber Security, DevOps, Backend vs.) seç ve adım adım neleri öğrenmen gerektiğini gör. Kaybolduğun zaman pusulan burası.
