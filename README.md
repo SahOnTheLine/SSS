@@ -144,9 +144,9 @@ Hacking book,
 
 
 
-Evet, bu yaklaşım çok mantıklı ve yaygın kullanılan bir yöntem! Öğrenme sürecinizi bu şekilde organize etmek harika bir fikir. İşte önerilerim:
 
-## **Önerilen Repository Yapısı**
+
+## **Repository Yapısı**
 
 ### **1. Linux Learning Repository**
 ```
