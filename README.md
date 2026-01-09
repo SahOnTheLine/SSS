@@ -96,6 +96,53 @@ ve bunların içinde oralardaki gelişimlerimi ve öğrenimlerimi , çeşitli ge
 
 
 
+Eğitim kaynaklarım:
+
+Youtube, 
+Freecodecamp,
+Btk akademi,
+MIT opencourseware,
+Geeksforgeeks,
+Google dev edu,
+Google akademi,
+Coursera,
+Microsoft learn,
+
+
+-------
+
+Proje platformlarım:
+
+Git,
+Github,
+Stack Overflow,
+Kaggle,
+
+
+
+
+
+---------
+
+eğitim kılavuz anahtar kelimelerim:
+
+Linux kullanım kılavuzu,
+Linux book,
+DevOps book,
+Hacking book,
+
+
+
+
+
+
+
+
+
+
+--------
+
+
 
 Evet, bu yaklaşım çok mantıklı ve yaygın kullanılan bir yöntem! Öğrenme sürecinizi bu şekilde organize etmek harika bir fikir. İşte önerilerim:
 
