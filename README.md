@@ -69,7 +69,7 @@ gibi gibi bir ton şey var.
 benim:
 
 Linux,
-Bash,
+Shell(Bash) scripting,
 Pyhton,
 C,
 HTML,
